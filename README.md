@@ -35,7 +35,12 @@ height="35px"/>
 - 이미지를 제공해주는 무료 api 사이트를 활용하여 백엔드를 대체
 - useInView 를 사용하여 브라우저 최하단 inView를 생성
 - 쿼리 키값과 캐싱을 이용하여 Dog/Cat 버튼클릭시 보여지는 이미지 실시간 변경
+- isLoading, isError, isFetchingNextPage 변수들을 활용해 페이지 로딩중인 상태를 나타내었음.
+
+## 더 해봐야할것
+
+- 스켈레톤 화면?
 
 # 🐐 구현 링크
 
--
+-https://react-infinite-scroll-fawn.vercel.app/
